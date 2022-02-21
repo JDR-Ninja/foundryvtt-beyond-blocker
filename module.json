@@ -1,0 +1,14 @@
+{
+  "name": "beyond-blocker",
+  "title": "DnDBeyond Roll Blocker",
+  "description": "Block rolls request from the browser extension to force players to use the character sheet in foundry",
+  "author": "JDR Ninja",
+  "version": "0.1.0",
+  "minimumCoreVersion": "0.9.0",
+  "compatibleCoreVersion": "9",
+  "esmodules": [ "main.js" ],
+  "socket": false,
+  "url": "https://github.com/JDR-Ninja/foundryvtt-beyond-blocker",
+  "download": "https://github.com/JDR-Ninja/foundryvtt-beyond-blocker/releases/download/0.1.0/beyond-blocker.zip",
+  "manifest": "https://github.com/JDR-Ninja/foundryvtt-beyond-blocker/releases/download/latest/module.json"
+}
